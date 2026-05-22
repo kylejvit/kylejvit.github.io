@@ -1,0 +1,40 @@
+body{
+    background-color: #BBF451;
+    background-image: url(https://github.com/kylejvit/kylejvit.github.io/blob/main/elegant-takeaway-paper-cup-mockup-for-coffee-perfect-for-cafes-or-promotional-campaigns-takeaway-paper-cup-mockup-takeaway-coffee-mug-to-go-transparent-background-free-png.webp?raw=true);
+    background-repeat: no-repeat;
+}
+
+p{
+    color: red;
+    font-size: 14px;
+    padding: 50px;
+
+}
+
+h1, h2{
+    //font-family: Georgia, Times, 'Times New Roman', serif
+  font-family: "Finlandica Headline", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+#image{
+    position: absolute; top: 400px; left: 300px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:blueviolet;
+    padding: 20px;
+    background-color: rgba(255,99,71, 0.5)
+
+}
+
+#page{
+    height: 1500px;
+    width: 1200px;
+    border-style: solid;
+        border-width: 2px;
+        border-color:goldenrod;
+        padding: 20px;
+        background-color: rgba (197, 198, 219, 0.5)
+}
