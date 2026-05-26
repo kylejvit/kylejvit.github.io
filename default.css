@@ -1,24 +1,53 @@
 body{
-    background-color: #BBF451;
-    background-image: url(https://github.com/kylejvit/kylejvit.github.io/blob/main/elegant-takeaway-paper-cup-mockup-for-coffee-perfect-for-cafes-or-promotional-campaigns-takeaway-paper-cup-mockup-takeaway-coffee-mug-to-go-transparent-background-free-png.webp?raw=true);
+    background-image: url(graphics/forest2.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: block;
 }
 
 p{
     color: red;
-    font-size: 14px;
+    font-family:'Franklin Gothic Medium'
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
     padding: 50px;
-
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgreen;
+    background-color: lightgreen;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+    padding: 5px;
+  position: relative;
+    top: 500px;
+    left: 1060px;
 }
 
-h1, h2{
-    //font-family: Georgia, Times, 'Times New Roman', serif
-  font-family: "Finlandica Headline", sans-serif;
+h1{
+  font-family: 'Franklin Gothic Medium'
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  padding: 10px 20px 10px 20px;
+  display: inline-block;
+    width: 80px;
+    height: 70px;
+    padding: 5px;
+  position: relative;
+    top: 40px;
+    left: 40px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgreen;
+  background-color: lightgreen;
+   /* Pins it to the top-right corner */
 }
 
+
+/*
 #image{
     position: absolute; top: 400px; left: 300px;
     border-style: solid;
@@ -38,3 +67,4 @@ h1, h2{
         padding: 20px;
         background-color: rgba (197, 198, 219, 0.5)
 }
+*/
